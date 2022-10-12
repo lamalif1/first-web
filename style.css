@@ -1,0 +1,18 @@
+.kaj1{
+    height: 425px;
+    width: 500px;
+    background-color: aqua;
+    padding: 25px;
+    border: 2px solid red;
+    text-align:justify;
+    width: 50%;
+    margin:0 auto;
+    color: rgb(68, 0, 255);
+    font-weight: 600;
+    font-size: 20px;
+}
+.heading-style{
+    text-align:center;
+    color:red;
+    text-transform:capitalize;
+}
